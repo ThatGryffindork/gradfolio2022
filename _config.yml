@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Sarah Beals Sager
+description: M.L.I.S., M.A. | Ph.D. Studet @ UCF
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -20,7 +20,7 @@ github: "#"
 researchgate: "#"
 orcid: "#"
 quora: "#"
-instagram: "#"
+instagram: "https://www.instagram.com/teallegacies/"
 facebook: "#"
 
 
