@@ -1,11 +1,11 @@
-### your site title here
+### Sarah Beals Sager
 
 title: Sarah Beals Sager
-description: M.L.I.S., M.A. | Ph.D. Studet @ UCF
+description: M.L.I.S., M.A. | Ph.D. Student @ UCF | Themed experience, archives, libraries, and pop culture
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: sarah.sager@knights.ucf.edu
 
 # Pagination
 paginate: 4
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "https://twitter.com/TealLegacies"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
@@ -21,7 +21,7 @@ researchgate: "#"
 orcid: "#"
 quora: "#"
 instagram: "https://www.instagram.com/teallegacies/"
-facebook: "#"
+facebook: "https://www.facebook.com/TealLegacies"
 
 
 # Markdown
