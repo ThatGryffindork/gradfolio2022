@@ -1,10 +1,10 @@
 ### Sarah Beals Sager
 
 title: Sarah Beals Sager
-description: M.L.I.S., M.A. | Ph.D. Student @ UCF | Themed experience, archives, libraries, and pop culture
+description: M.L.I.S., M.A. | Ph.D. Student @ UCF | Themed experiences, pop culture, and archives
 
 baseurl: /gradfolio #name of GitHub repository
-url: "https://www.teallegacies.com/" #custom url to be used instead of GitHub repository
+url: "#" #custom url to be used instead of GitHub repository
 email: sarah.sager@knights.ucf.edu
 
 # Pagination
