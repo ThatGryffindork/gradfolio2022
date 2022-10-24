@@ -14,12 +14,8 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "https://twitter.com/TealLegacies"
-linkedin: "in/sarahbeals/"
-stackoverflow: "#"
+linkedin: "sarahbeals"
 github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
 instagram: "https://www.instagram.com/teallegacies/"
 facebook: "https://www.facebook.com/TealLegacies"
 
