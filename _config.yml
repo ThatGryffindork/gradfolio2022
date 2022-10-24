@@ -13,11 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/TealLegacies"
+twitter: "TealLegacies"
 linkedin: "sarahbeals"
 github: "#"
-instagram: "https://www.instagram.com/teallegacies/"
-facebook: "https://www.facebook.com/TealLegacies"
+instagram: "teallegacies"
+facebook: "TealLegacies"
 
 
 # Markdown
