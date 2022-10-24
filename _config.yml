@@ -4,7 +4,7 @@ title: Sarah Beals Sager
 description: M.L.I.S., M.A. | Ph.D. Student @ UCF | Themed experience, archives, libraries, and pop culture
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://www.teallegacies.com/" #custom url to be used instead of GitHub repository
 email: sarah.sager@knights.ucf.edu
 
 # Pagination
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "https://twitter.com/TealLegacies"
-linkedin: "https://www.linkedin.com/in/sarahbeals/"
+linkedin: "in/sarahbeals/"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
