@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+My current research focuses on representations of the American West in theme parks and pay equity in popular culture archives. My master’s thesis is about the representation of people and landscapes, and my master’s capstone is about predicting wait times for attractions. In the future, I hope to research diversity and storytelling in the themed experiences industry.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+As a [career and life coach](https://www.teallegacies.com/), I love bringing my academic research to folks outside of academia. When I’m not researching or coaching, I love hanging out with my [dog](https://www.instagram.com/goodboishilling/) and playing Dungeons and Dragons.
