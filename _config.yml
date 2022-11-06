@@ -43,10 +43,10 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
+      - PeoplePlace.md
+      - CrowdsourcedData.md
+      - pclha.md
+      - bbf_bhm.md
       - project5.md
       - project6.md
 
