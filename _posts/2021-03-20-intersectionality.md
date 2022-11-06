@@ -31,5 +31,3 @@ And that’s it for intersectionality this time around. We covered a brief histo
 nIf you want to continue the conversation, contact us at [slightlyproblematic.net](https://www.slightlyproblematic.net/post/introintersectionality), or on social media using @SltPrbDotNet
 
 I’ll see you next time!  
-
-[by Alfred Tennyson](https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead)
