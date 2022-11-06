@@ -3,24 +3,30 @@ layout: post
 title: Home They Brought Her Warrior Dead 
 ---
 
-Home they brought her warrior dead:  
-She nor swooned, nor uttered cry:  
-All her maidens, watching, said,  
-'She must weep or she will die.'  
+We’re going to talk about where intersectionality came from, what it means, and go through some examples. Intersectionality is a theory, and you can use it to guide your ways of thinking, in or out of an academic context. Intersectionality has been around long enough for it to become an established theory in academia, but it’s recently been popular in social justice movements today. Intersectionality was first coined by Kimberlé Crenshaw, a lawyer and professor, in a 1989 paper. Crenshaw identified several cases where Black women were facing discrimination, but the law only worked for them to claim racism or sexism (or neither), not both. Crenshaw was like, “Nah, this is definitely both.” And she began writing about intersectionality:
 
-Then they praised him, soft and low,  
-Called him worthy to be loved,  
-Truest friend and noblest foe;  
-Yet she neither spoke nor moved.  
+“Black Women are sometimes excluded from feminist theory and antiracist policy discourse because both are predicated on a discrete set of experiences that often does not accurately reflect the interaction of race and gender… Because the intersectional experience is greater than the sum of racism and sexism, any analysis that does not take intersectionality into account cannot sufficiently address the particular manner in which Black women are subordinated” (Crenshaw 1989).\n\nIn other words, people are complicated, and we don’t have a singular identity. It’s convenient to see patterns and shortcuts within groups. But to be a good anthropologist, you have to remember that people have layers and that stereotypes are harmful. But it’s easier to remember, if you’re always looking at your world with an intersectional lens, or a prism, as Crenshaw likes to say (Coaston 2019; Steinmetz 2020).
 
-Stole a maiden from her place,  
-Lightly to the warrior stept,  
-Took the face-cloth from the face;  
-Yet she neither moved nor wept.  
+Schematic animation of a continuous beam of light being dispersed by a prism.\nLight dispersion conceptual waves by Lucas Vieira\n\nFirst and foremost, intersectionality is a metaphor. In this sense, intersectionality is incredibly flexible in that it isn’t limited to a singular race or gender. In fact, you can (and should) calibrate intersections for age, socio-economic class, people with disabilities, and geographical location. All you have to do is figure out where people intersect, metaphorically speaking.
 
-Rose a nurse of ninety years,  
-Set his child upon her knee—  
-Like summer tempest came her tears—  
-'Sweet my child, I live for thee.'  
+Is intersectionality the discrimination Olympics? No. No, thank you. That would imply that we’re interested in taking power away from people, inverting the power triangle, and ruling over the previously powerful as they once did. Intersectionality is really about challenging the power hierarchy until everyone has a fair and decent shot regardless of what they are (Hill Collins 2019; Coaston 2019). It’ll matter far more who you are, than what you are. That’s the dream. Until then, stigma and stereotypes still very much matter.\n\n\nDr. Patricia Hill Collins has written extensively on intersectionality (She is a sociologist, and it is totally ok, for anthropologists or anyone, to borrow theories from other departments; think of it as another form of intersectionality.) in her career. I found her take on stereotypes particularly helpful. She describes stereotypes as, “controlling images that are designed to make racism, sexism, poverty, and other forms of social injustice appear to be natural, normal, and inevitable parts of everyday life” and do serious psychological damage within the group being portrayed (Hill Collins 2019; Speight 2007). Stereotypes are convenient, but they’re sloppy, and we can do better.
+
+Let’s go to Broadway for a minute. There are plenty of stereotypes to choose from in theater, but let’s look at the show of the decade: Hamilton. Lin-Manuel Miranda’s Hamilton, a musical that, like many retellings, blurs the line between history and historically inspired regarding the United States’ revolution and foundation in the colonial era. Hill Collins explains, “This is not just multiracial casting of the same old story… Instead, what Lin-Manuel Miranda in Hamilton had the nerve to do was write a hip-hop opera about the founding myth of America” (Hill Collins 2017). For Miranda, a simplified intersection is at his Puerto Rican identity and his New Yorker identity, and where they happen to meet is at his gift for storytelling. This is not to say that Hamilton doesn’t have problematic themes and erasures because it does (Gross 2020). And that is why decolonization is an ongoing, never-ending, extremely worthwhile endeavor. Because we can always try to be a little better than last time.
+
+Tracy Clayton's Tweet, \"im late w the hamilton criticism stuff & im clearly biased but.. i really like that this conversation is happening. hamilton the play and the movie were given to us in two different worlds & our willingness to interrogate things in this way feels like a clear sign of change" Reply from Lin-Manuel Miranda, "Appreciate you so much,  @brokeymcpoverty . All the criticisms are valid. The sheer tonnage of complexities & failings of these people I couldn’t get. Or wrestled with but cut. I took 6 years and fit as much as I could in a 2.5 hour musical. Did my best. It’s all fair game."
+
+30 years after Crenshaw published her first paper on intersectionality, social justice, politics, and even academia have molded the theory beyond its intent. Crenshaw clarifies that her theory, “is not identity politics on steroids. It is not a mechanism to turn white men into the new pariahs. It’s basically a lens, a prism, for seeing the way in which various forms of inequality often operate together and exacerbate each other. We tend to talk about race inequality as separate from inequality based on gender, class, sexuality or immigrant status. What’s often missing is how some people are subject to all of these, and the experience is not just the sum of its parts” (Steinmetz 2020).\nOne place I see intersectionality compiling within a person and a community, is in the Cross-Disability community. Cross-Disability meaning that ‘we all work together regardless of what our individual disabilities may be” (“Colorado Cross-Disability Coalition,” n.d.). My experience is with a family member who will remain purposefully vague. Even though we have the same ethnicity, hometown, and socio-economic class, their experience will always be distinctly different from mine because of their disability. Disability is something that, for better or worse, brings people together from just about every background. 
+
+But how do we, in Collins’ words, act out of conscience and not convenience? Collins specifies conscience and convenience as the difference between allyship and (Hill Collins 2017). Allyship is when non-oppressed people dig into the struggles of their peers and risk similar discrimination. Exploitation is borrowing their struggles for personal use without risking anything. Convenient stereotypes normalize the damaging ideas we’d rather get away from (Hill Collins 2002). It is not enough to cast a Black character in a stereotypical Black role, whether that’s in a movie, or as the Director of Diversity & Inclusion. Stop using basic glass, when you could be using a prism.
+
+##Stop using basic glass when you could be using a prism. 
+
+Are you ready to practice intersectional theory in real time? Think about where you live, and then think about the people Indigenous to where you live. Land is a tangible manifestation of the intersectionality metaphor. What’s not a metaphor is decolonization, that’s going to be a team effort. A beginner’s step into decolonization might look like going to native-land.ca and learning on whose land are you living. Once you’ve done that, look to see if the Indigenous people in your area need support, whether it’s donations, purchases, or likes. If you’re looking for organizations with national or international impact, you can go to our website. Just look under the acknowledgement tab. 
+
+And that’s it for intersectionality this time around. We covered a brief history with Crenshaw, looked into the meaning with Hill Collins, and went over some everyday examples with Hamilton, the Cross-Disability community, and Indigenous land. If you want to follow up on anything I quoted, the citations are at the bottom of the blog, and we have an ongoing bibliography on our website. 
+
+nIf you want to continue the conversation, contact us at [slightlyproblematic.net](https://www.slightlyproblematic.net/post/introintersectionality), or on social media using @SltPrbDotNet
+
+I’ll see you next time!  
 
 [by Alfred Tennyson](https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead)
