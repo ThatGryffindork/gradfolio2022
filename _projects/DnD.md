@@ -8,4 +8,4 @@ description: Soutron Global Blog
 
 Sarah Beals Sager explains librarians boost everyone and how her journey to learn how to play D&D during COVID-19 helped her career.
 
-Read the blog post [here] (https://www.soutron.com/dungeons-and-dragons-helped-my-job-search/)
+Read the blog post [here](https://www.soutron.com/dungeons-and-dragons-helped-my-job-search/)
