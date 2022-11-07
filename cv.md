@@ -5,7 +5,7 @@ title: CV
 published: true
 ---
 
-Sarah Beals Sager
+## Sarah Beals Sager
 
 Orlando, FL
 
@@ -21,7 +21,7 @@ Concentration: Museum and heritage studies
 
 University of Denver | 2020
 Master of library and information science, MLIS
-Thesis: [Crowdsourced Data and Predicted Theme Park Wait Times](https://www.sarahbeals.com/capstone)
+Thesis: [Crowdsourced Data and Predicted Theme Park Wait Times](https://www.sarahbealssager.com/capstone)
 Concentration: Archives
 
 University of Montana | 2014
