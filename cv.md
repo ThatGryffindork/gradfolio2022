@@ -87,19 +87,19 @@ Themed Experience TV. <https://www.youtube.com/watch?v=6cluRGbgnEk>.
 
 Beals, Sarah. 2020. "Wind River and Its Concerning Lack of Indigenous
 Feminism." Decolonize DU (blog). March 20, 2020.
-https://decolonizedu.com/2020/03/20/wind-river/.
+[https://decolonizedu.com/2020/03/20/wind-river/.](https://decolonizedu.com/2020/03/20/wind-river/)
 
 Sager, Sarah Beals. 2021a. "Tourism." Slightly Problematic. February 19,
-2021. https://www.slightlyproblematic.net/post/tourism.
+2021. [https://www.slightlyproblematic.net/post/tourism.](https://www.slightlyproblematic.net/post/tourism)
 
 ---------. 2021b. "Intro to Intersectionality." Slightly Problematic.
 March 20, 2021.
-https://www.slightlyproblematic.net/post/introintersectionality.
+[https://www.slightlyproblematic.net/post/introintersectionality.](https://www.slightlyproblematic.net/post/introintersectionality)
 
 ---------. 2021c. "Desert, Cactus, & Westerns with Jacelle
 Ramon-Sauberan." Slightly Problematic. April 14, 2021.
-https://www.slightlyproblematic.net/post/desert-cactus-westerns-with-jacelle-ramon-sauberan.
+[https://www.slightlyproblematic.net/post/desert-cactus-westerns-with-jacelle-ramon-sauberan.](https://www.slightlyproblematic.net/post/desert-cactus-westerns-with-jacelle-ramon-sauberan)
 
 ---------. 2021d. "Dungeons and Dragons Helped My Job Search." Soutron
 Global. June 14, 2021.
-https://www.soutron.com/dungeons-and-dragons-helped-my-job-search/.
+[https://www.soutron.com/dungeons-and-dragons-helped-my-job-search/.](https://www.soutron.com/dungeons-and-dragons-helped-my-job-search/)
