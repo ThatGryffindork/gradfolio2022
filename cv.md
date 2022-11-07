@@ -1,35 +1,32 @@
+---
+layout: about
+permalink: /cv/
+title: CV
+published: true
+---
+
 Sarah Beals Sager
 
 <sarah.a.beals@gmail.com> | Orlando, FL | [www.sarahbealssager.com](http://www.sarahbealssager.com/)
 
 ## Education 
 
-University of Central Florida
+University of Central Florida | Expected 2027
+Doctor of philosophy, texts and technology 
 
-Doctor of philosophy, texts and technology Expected 2027
-
-University of Denver
-
-Master of art, anthropology 2020
-
+University of Denver | 2020
+Master of art, anthropology
 Thesis: [People and Place: A Journey Through Film, Tourism, andHeritage](https://digitalcommons.du.edu/etd/1725/)
-
 Concentration: Museum and heritage studies
 
-University of Denver
-
-Master of library and information science, MLIS 2020
-
+University of Denver | 2020
+Master of library and information science, MLIS
 Thesis: [Crowdsourced Data and Predicted Theme Park WaitTimes](https://www.sarahbeals.com/capstone)
-
 Concentration: Archives
 
-University of Montana
-
-Bachelor of art, media arts 2014
-
+University of Montana | 2014
+Bachelor of art, media arts
 Minors: Irish studies and theatre
-
 High Honors
 
 ## Publication 
@@ -38,7 +35,7 @@ Dillard, Madison, Sarah Beals, Rosa Gutierrez, Samantha Gillmore, and
 Lucor Jordan. 2020. "De-Pioneering HIgher Education and Land
 Acknowledgements." *The Applied Anthropologist*, Special Issue:
 Resistance and Response, 40 (2).
-<https://www.hpsfaa.org/resources/Documents/AppliedAnthropologist-2020/Vol.40_No.2_2020.pdf>.
+[https://www.hpsfaa.org/resources/Documents/AppliedAnthropologist-2020/Vol.40_No.2_2020.pdf.](https://www.hpsfaa.org/resources/Documents/AppliedAnthropologist-2020/Vol.40_No.2_2020.pdf)
 
 ## Conference Presentations 
 
@@ -47,7 +44,7 @@ Jordan, Lucor, Sarah Beals, Madison Dillard, and Laura Hughes. 2021.
 Platform  for Public Facing Scholarly Critic and Praxis: The Slightly
 Problematic Worker  Cooperative." Presented at the High Plains Society
 for Applied Anthropology 2021 Spring Conference, April 21.
-<https://www.youtube.com/watch?v=smnbI90sqRo&ab_channel=HighPlainsSocietyforAppliedAnthropology>.
+[https://www.youtube.com/watch?v=smnbI90sqRo&ab_channel=HighPlainsSocietyforAppliedAnthropology.](https://www.youtube.com/watch?v=smnbI90sqRo&ab_channel=HighPlainsSocietyforAppliedAnthropology)
 
 Sager, Sarah Beals. 2021. "Old Tucson Studios: Curating Film, Tourism, &
 Heritage." Presented at the Themed Experience & Attractions Academic
@@ -62,15 +59,11 @@ Beals, Sarah. 2020. "Winning Back the West: A Journey Through Film,
 Tourism, & Heritage." Presented at the Southwest Population/American
 Culture Association, February 19.
 
-*The Serious Business of Having Fun*
-
-Association of College Unions International\| Boise, ID \| 2013
-
 ## Invited talks 
 
 Boeckman, Ryan, and Howie. n.d. "Design, Disney, and Library
 Anthropology." My Disney Class Podcast. Accessed November 2, 2022.
-<https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzcwODI5L3Jzcw/episode/ZWRkMDU4ZGEtYTY1MS00MmRjLTliYzItZTllMmFlOTU2ZTQ0>.
+[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzcwODI5L3Jzcw/episode/ZWRkMDU4ZGEtYTY1MS00MmRjLTliYzItZTllMmFlOTU2ZTQ0](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzcwODI5L3Jzcw/episode/ZWRkMDU4ZGEtYTY1MS00MmRjLTliYzItZTllMmFlOTU2ZTQ0)
 
 Havard, Cody T., dir. 2021a. *SarahBeals Sager - Film Induced Tourism
 and SlightlyProblematic.Net*. Being a Fan of Disney.
