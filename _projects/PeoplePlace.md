@@ -2,6 +2,11 @@
 layout: post
 title: People & Place 
 description: A Journey Through Film, Tourism & Heritage
+permalink: /
+profile:
+  align: right
+  image: ot.png
+published: true
 ---
 
 ## A Journey Through Film, Tourism & Heritage
