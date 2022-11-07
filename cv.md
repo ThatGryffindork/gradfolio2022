@@ -7,7 +7,7 @@ published: true
 
 Sarah Beals Sager
 
-<sarah.a.beals@gmail.com> | Orlando, FL | [www.sarahbealssager.com](http://www.sarahbealssager.com/)
+Orlando, FL
 
 ## Education 
 
