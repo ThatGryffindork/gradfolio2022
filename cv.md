@@ -16,18 +16,17 @@ Doctor of philosophy, texts and technology
 
 University of Denver | 2020
 Master of art, anthropology
-Thesis: [People and Place: A Journey Through Film, Tourism, andHeritage](https://digitalcommons.du.edu/etd/1725/)
+Thesis: [People and Place: A Journey Through Film, Tourism, and Heritage](https://digitalcommons.du.edu/etd/1725/)
 Concentration: Museum and heritage studies
 
 University of Denver | 2020
 Master of library and information science, MLIS
-Thesis: [Crowdsourced Data and Predicted Theme Park WaitTimes](https://www.sarahbeals.com/capstone)
+Thesis: [Crowdsourced Data and Predicted Theme Park Wait Times](https://www.sarahbeals.com/capstone)
 Concentration: Archives
 
 University of Montana | 2014
 Bachelor of art, media arts
 Minors: Irish studies and theatre
-High Honors
 
 ## Publication 
 
