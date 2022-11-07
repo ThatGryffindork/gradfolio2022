@@ -22,7 +22,7 @@ Tracy Clayton's Tweet, \"im late w the hamilton criticism stuff & im clearly bia
 
 But how do we, in Collins’ words, act out of conscience and not convenience? Collins specifies conscience and convenience as the difference between allyship and (Hill Collins 2017). Allyship is when non-oppressed people dig into the struggles of their peers and risk similar discrimination. Exploitation is borrowing their struggles for personal use without risking anything. Convenient stereotypes normalize the damaging ideas we’d rather get away from (Hill Collins 2002). It is not enough to cast a Black character in a stereotypical Black role, whether that’s in a movie, or as the Director of Diversity & Inclusion. Stop using basic glass, when you could be using a prism.
 
-Stop using basic glass when you could be using a prism. 
+## Stop using basic glass when you could be using a prism. 
 
 Are you ready to practice intersectional theory in real time? Think about where you live, and then think about the people Indigenous to where you live. Land is a tangible manifestation of the intersectionality metaphor. What’s not a metaphor is decolonization, that’s going to be a team effort. A beginner’s step into decolonization might look like going to native-land.ca and learning on whose land are you living. Once you’ve done that, look to see if the Indigenous people in your area need support, whether it’s donations, purchases, or likes. If you’re looking for organizations with national or international impact, you can go to our website. Just look under the acknowledgement tab. 
 
